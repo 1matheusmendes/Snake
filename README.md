@@ -1,2 +1,2 @@
 # Snake
-Jogo snake em C
+###### Jogo snake em C
